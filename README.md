@@ -30,7 +30,7 @@ const developer = {
     exploring: ["Microservices", "System Design", "Cloud Platforms"]
   },
   
-  goals2024: [
+  goals2026: [
     "Master TypeScript & Next.js ecosystem",
     "Contribute to open-source projects",
     "Build production-ready scalable applications",
