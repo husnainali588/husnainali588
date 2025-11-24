@@ -85,30 +85,6 @@ const developer = {
 
 </div>
 
----
-
-## 🎯 Currently Learning & Building
-
-```javascript
-const currentFocus = {
-  learning: {
-    advanced: ["TypeScript", "Next.js 14 with App Router", "Server Components"],
-    exploring: ["Docker & Containerization", "AWS/Cloud Deployment", "GraphQL"],
-    testing: ["Jest", "React Testing Library", "Cypress"],
-    backend: ["Microservices Architecture", "Redis Caching", "Message Queues"]
-  },
-  
-  buildingProjects: [
-    "Full-stack MERN applications with TypeScript",
-    "RESTful APIs with advanced features",
-    "Responsive modern UI with Tailwind CSS"
-  ],
-  
-  goals: {
-    shortTerm: "Master TypeScript & Next.js ecosystem",
-    longTerm: "Contribute to open-source • Build SaaS products"
-  }
-};
 ```
 
 ---
