@@ -1,14 +1,18 @@
-# Husnain Ali
+<div align="center">
+
+# 👨‍💻 Husnain Ali
 
 ### Full Stack Developer | MERN Stack Specialist
 
-Building scalable web applications with modern technologies and best practices. Passionate about clean code, user experience, and continuous learning.
+*Building scalable web applications with modern technologies and best practices*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-ali-25a437302)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainalimughal588@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-ali-25a437302)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainalimughal588@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnainali588)
 
-![Profile Views](https://komarev.com/ghpvc/?username=husnainali588&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=husnainali588&style=for-the-badge&color=0891b2)
+
+</div>
 
 ---
 
@@ -20,126 +24,158 @@ const developer = {
   role: "Full Stack Developer",
   expertise: ["MERN Stack", "Web Development", "RESTful APIs"],
   
-  workingOn: {
-    primary: "Building responsive full-stack applications",
-    learning: ["TypeScript", "Next.js", "Docker"],
-    exploring: ["Microservices", "Cloud Architecture", "GraphQL"]
+  currentlyWorking: {
+    focus: "Building responsive full-stack applications",
+    learning: ["TypeScript", "Next.js 14", "Docker"],
+    exploring: ["Microservices", "System Design", "Cloud Platforms"]
   },
   
-  currentGoals: [
+  goals2024: [
     "Master TypeScript & Next.js ecosystem",
-    "Contribute to open source projects",
-    "Build production-ready scalable applications"
+    "Contribute to open-source projects",
+    "Build production-ready scalable applications",
+    "Learn DevOps & CI/CD practices"
   ]
 };
 ```
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 👨‍💻 Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,html,css" height="40" alt="javascript" />
+</div>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚛️ Frontend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="40" alt="frontend tools" />
+</div>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🔧 Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="backend tools" />
+</div>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🗄️ Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" alt="databases" />
+</div>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" height="40" alt="tools" />
+</div>
 
----
+## 📊 GitHub Statistics
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnainali588&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainali588&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=husnainali588&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 
----
+  <br />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainali588&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 
-## 🎯 Currently Focused On
-
-- 🔨 Building production-ready MERN stack applications
-- 📚 Learning **TypeScript** and **Next.js 14** with Server Components
-- 🐳 Exploring **Docker** and containerization
-- ☁️ Understanding cloud deployment with **AWS/Vercel**
-- 🧪 Implementing **Jest** and **Cypress** for testing
-- 🤝 Contributing to open-source projects
+</div>
 
 ---
 
-## 💡 What I Bring to the Table
+## 🎯 Currently Learning & Building
 
-- ✅ Strong foundation in **data structures and algorithms** (C++)
-- ✅ Expertise in building **RESTful APIs** and **server-side logic**
+```javascript
+const currentFocus = {
+  learning: {
+    advanced: ["TypeScript", "Next.js 14 with App Router", "Server Components"],
+    exploring: ["Docker & Containerization", "AWS/Cloud Deployment", "GraphQL"],
+    testing: ["Jest", "React Testing Library", "Cypress"],
+    backend: ["Microservices Architecture", "Redis Caching", "Message Queues"]
+  },
+  
+  buildingProjects: [
+    "Full-stack MERN applications with TypeScript",
+    "RESTful APIs with advanced features",
+    "Responsive modern UI with Tailwind CSS"
+  ],
+  
+  goals: {
+    shortTerm: "Master TypeScript & Next.js ecosystem",
+    longTerm: "Contribute to open-source • Build SaaS products"
+  }
+};
+```
+
+## 💡 Core Competencies
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Database** | **Tools & Others** |
+|:---:|:---:|:---:|:---:|
+| React.js | Node.js | MongoDB | Git & GitHub |
+| Next.js | Express.js | MySQL | Docker |
+| Redux | RESTful APIs | Firebase | Postman |
+| Tailwind CSS | JWT Auth | Database Design | VS Code |
+| Responsive Design | API Development | Query Optimization | Agile/Scrum |
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- ✅ Built **X+ full-stack applications** with modern tech stack
+- ✅ Strong foundation in **Data Structures & Algorithms** (C++)
 - ✅ Experience with **responsive design** and **modern UI/UX** principles
-- ✅ Knowledge of **database design** and **optimization**
 - ✅ Proficient in **version control** and **collaborative development**
 - ✅ Focus on **clean code**, **best practices**, and **scalability**
+- ✅ Active problem solver on coding platforms
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+<div align="center">
 
-- 💼 **LinkedIn:** [Husnain Ali](https://www.linkedin.com/in/husnain-ali-25a437302)
-- 📧 **Email:** husnainalimughal588@gmail.com
-- 💻 **GitHub:** [@husnainali588](https://github.com/husnainali588)
-- 🌐 **Portfolio:** [Coming Soon](#)
+I'm always excited to collaborate on interesting projects or discuss new technologies!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-ali-25a437302)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainalimughal588@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnainali588)
+
+</div>
 
 ---
 
 ## 🤝 Open for Opportunities
 
-- 💼 Full-time positions in **Mern Stack Development**
-- 🚀 Freelance projects & collaborations
-- 🌱 Open source contributions
-- 📝 Technical writing & content creation
+- 💼 **Full-time positions** in Full Stack Development (MERN Stack)
+- 🚀 **Freelance projects** & consulting
+- 🤝 **Open-source collaborations**
+- 📝 **Technical writing** & mentoring
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>💭 "First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
+### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/husnainali588">Husnain Ali</a> | Let's build something amazing together!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+**Made with ❤️ by [Husnain Ali](https://github.com/husnainali588)**
+
+⭐️ **If you find my work interesting, consider giving a star!**
+
+</div>
