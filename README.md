@@ -85,8 +85,6 @@ const developer = {
 
 </div>
 
-```
-
 ---
 
 ## 🏆 Achievements & Highlights
