@@ -68,27 +68,20 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" height="40" alt="tools" />
 </div>
 
-## 📊 GitHub Statistics
+---
 
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=husnainali588&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainali588&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="48%" alt="Top Languages" />
+</div>
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainali588&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
 
 </div>
 
@@ -118,20 +111,6 @@ const currentFocus = {
 };
 ```
 
-## 💡 Core Competencies
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Database** | **Tools & Others** |
-|:---:|:---:|:---:|:---:|
-| React.js | Node.js | MongoDB | Git & GitHub |
-| Next.js | Express.js | MySQL | Docker |
-| Redux | RESTful APIs | Firebase | Postman |
-| Tailwind CSS | JWT Auth | Database Design | VS Code |
-| Responsive Design | API Development | Query Optimization | Agile/Scrum |
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Highlights
@@ -159,14 +138,6 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 ---
 
-## 🤝 Open for Opportunities
-
-- 💼 **Full-time positions** in Full Stack Development (MERN Stack)
-- 🚀 **Freelance projects** & consulting
-- 🤝 **Open-source collaborations**
-- 📝 **Technical writing** & mentoring
-
----
 
 <div align="center">
 
