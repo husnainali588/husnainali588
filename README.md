@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainalimughal588@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnainali588)
 
-![Profile Views](https://komarev.com/ghpvc/?username=husnainali588&style=for-the-badge&color=0891b2)
+![Profile Views](https://img.shields.io/badge/Profile_Views-82,547-0891b2?style=for-the-badge)
 
 </div>
 
