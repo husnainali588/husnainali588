@@ -1,5 +1,7 @@
 <div align="center">
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 # 👨‍💻 Husnain Ali
 
 ### Full Stack Developer | MERN Stack Specialist
@@ -13,6 +15,8 @@
 ![Profile Views](https://img.shields.io/badge/Profile_Views-82,547-0891b2?style=for-the-badge)
 
 </div>
+
+<br clear="both">
 
 ---
 
