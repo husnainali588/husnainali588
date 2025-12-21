@@ -17,7 +17,6 @@
 ---
 
 ## 🚀 About Me
-
 ```typescript
 const developer = {
   name: "Husnain Ali",
@@ -30,7 +29,7 @@ const developer = {
     exploring: ["Microservices", "System Design", "Cloud Platforms"]
   },
   
-  goals2026: [
+  goals2025: [
     "Master TypeScript & Next.js ecosystem",
     "Contribute to open-source projects",
     "Build production-ready scalable applications",
@@ -75,10 +74,14 @@ const developer = {
 <div align="center">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=husnainali588&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainali588&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" width="48%" alt="Top Languages" />
 </div>
   
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=husnainali588&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainali588&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
@@ -89,7 +92,7 @@ const developer = {
 
 ## 🏆 Achievements & Highlights
 
-- ✅ Built **X+ full-stack applications** with modern tech stack
+- ✅ Built multiple **full-stack applications** with modern tech stack
 - ✅ Strong foundation in **Data Structures & Algorithms** (C++)
 - ✅ Experience with **responsive design** and **modern UI/UX** principles
 - ✅ Proficient in **version control** and **collaborative development**
@@ -111,7 +114,6 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 </div>
 
 ---
-
 
 <div align="center">
 
